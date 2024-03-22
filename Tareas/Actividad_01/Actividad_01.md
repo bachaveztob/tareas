@@ -40,7 +40,7 @@ a) Que las estadísticas y datos que le dan fuerza a la investigación sean de d
 
 ### 2. __*Guarderías y colegios caninos, y su auge en Chile*__ 
 
-![perritos yendo al colegio](https://cloudfront-us-east-1.images.arcpublishing.com/copesa/ZKKKVOPGRBESXC3SD44L76LCHM.jpg)
+![perritos yendo al colegio](https://dogmates.cl/wp-content/uploads/elementor/thumbs/furgon-mirror-q8tv5h0lj7ixj3n9m9dj31lj5jkk9z0yy7hiwgvgkw.png)
 ##### 2.1. Perritos en "furgón escolar"
 
 #### ¿Qué son y a qué se dedican los colegios caninos? 
