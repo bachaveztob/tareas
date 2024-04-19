@@ -75,4 +75,4 @@ a) Que los establecimientos (colegios y guarderías caninas) o usuarios (dueños
 ##### 2.2. Profesoras y alumnos caninos
 
 ## Miro con análisis FODA de los temas
-[Ir a Miro](https://miro.com/app/board/uXjVNjRll9I=/?share_link_id=510786142814) 
+[Ir a Miro](https://miro.com/app/board/uXjVNjRll9I=/?share_link_id=510786142814)
