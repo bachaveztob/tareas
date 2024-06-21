@@ -4,3 +4,4 @@ Previamente, hice un bosquejo a mano con la estructura que quería para mi pági
 La configuración de color y tipografía, la logré gracias al comando "<style>", donde abrí una sección completa donde introduje las paletas de colores para fondo y tipografía (extraído de w3schools), tamaños de la imagen y márgenes de CV, etc.
 También, gracias a los comandos "<h>" y "<li>" pude incorporar títulos y listados en el proceso de creación del currículum (elementos pedidos para esta tarea).
 Por último, integré un enlace que lleva a mi perfil de Instagram, cumpliendo con el requisito de integrar enlaces.
+Link a la página web: https://bachaveztob.github.io/CVBenjaminChavez/
